@@ -1,4 +1,4 @@
-# ShopNest-Dashboard
+# ShopNest-PowerBI Dashboard
 ShopNest Store Capstone
 
 
