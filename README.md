@@ -1,8 +1,6 @@
 # ShopNest-Dashboard
 ShopNest Store Capstone
 
-100 marks
-
 
 Resources
 
